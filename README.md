@@ -76,14 +76,14 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `ROMEOBOT_SESSION`  =  Get this by using [@Rjssgbot](https://t.me/Rjssgbot)
+- `ROMEOBOT_SESSION`  =  Get this by using [𝐁𝐨𝐭](https://t.me/Rjssgbot)
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `HANDLER`  =  Your command handler.
 - `DATABASE_URL`  =  A Postgresql database url.
 
 ------
 ## RomeoBot Session
-- Get your ROMEO_SESSION Fom @Rjssgbot
+- Get your [ROMEO_SESSION](https://t.me/Rjssgbot)
 
 ------
 ## Disclaimer
